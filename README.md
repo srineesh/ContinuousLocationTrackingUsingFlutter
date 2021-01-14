@@ -1,4 +1,4 @@
-# Continuous locatio tracking
+# Continuous location tracking
 
 In this project i attempt to create a mechanism for continuous location tracking using flutter and geolocator plugin
 
