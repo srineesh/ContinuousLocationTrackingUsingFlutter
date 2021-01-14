@@ -1,10 +1,9 @@
-# fleetconnect
+# Continuous locatio tracking
 
-A new Flutter project.
+In this project i attempt to create a mechanism for continuous location tracking using flutter and geolocator plugin
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+This project is part of task for fleetconnect company.
 
 A few resources to get you started if this is your first Flutter project:
 
